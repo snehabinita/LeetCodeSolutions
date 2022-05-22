@@ -1,3 +1,5 @@
+// Find two indices that adds up to the sum in the array
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
          Map<Integer, Integer> numToIndex = new HashMap<>();
